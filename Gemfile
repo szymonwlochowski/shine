@@ -9,11 +9,11 @@ gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 
 gem 'devise'
+gem 'faker'
 gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 gem 'rubocop', require: false
 gem 'webpack-rails'
-gem 'faker'
 
 group :development, :test do
   gem 'byebug', platform: :mri
