@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 gem 'rubocop', require: false
 gem 'webpack-rails'
+gem 'faker'
 
 group :development, :test do
   gem 'byebug', platform: :mri
